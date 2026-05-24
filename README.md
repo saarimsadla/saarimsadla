@@ -5,6 +5,7 @@
 Designing scalable, secure, and cost efficient cloud native platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saarimaatrisadla/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://saarimsadla.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saarim.sadla@gmail.com)
 
 </div>
