@@ -87,6 +87,12 @@ Automation was a constant theme. By removing manual workflows and tightening int
 
 Here the focus was governance and correctness. I built SOX compliant, audit ready systems and optimized Oracle PL and SQL pipelines to reduce memory usage while improving performance. Not flashy work, but critical work.
 
+### Software Engineer, US Apparel & Textiles (2018)
+
+Built enterprise applications supporting manufacturing and order management operations.
+
+Developed database pipelines and reporting tools improving operational visibility.
+
 ---
 
 ## Academic and Mentorship Work
