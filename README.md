@@ -65,8 +65,13 @@ That includes TensorFlow based models, GIS and geospatial ML using satellite ima
 ---
 
 ## Professional Experience Highlights
+### Principal Data Engineer, BMO (2026 to Present)
 
-### Team Lead and Senior Software Engineer, Franklin Energy (2023 to Present)
+Architected highly secure, scalable batch and streaming data pipelines using Python, Kafka, and AWS to process up to 50 million financial records daily.
+
+Integrated advanced envelope encryption, DynamoDB deduplication, and Airflow orchestration to ensure data integrity for enterprise downstream analytics.
+
+### Team Lead and Senior Software Engineer, Franklin Energy (2023 to 2025)
 
 I lead cross functional POD teams delivering large scale energy analytics platforms. A big win here was migrating EC2 heavy systems toward event driven AWS architectures using Lambda, SQS, and EventBridge. That shift alone cut costs by about forty percent and reduced processing times by half.
 
